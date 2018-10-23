@@ -1,0 +1,16 @@
+{
+  "name": "graphedit",
+  "version": "1.0.0",
+  "description": "Training wheels for DOT graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Lawrence-Hurt",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.7.1",
+    "mobx": "^5.5.1",
+    "mobx-state-tree": "^3.7.0"
+  }
+}
